@@ -17,7 +17,8 @@ Overall Key Findings
 ⦁	44% of customers prefer COD and 21% prefer UPI payment mode and 10% prefer EMI.  
 
 Snapshot
-![Screenshot 2024-05-25 180257](https://github.com/PPP2796/PowerBI_Dash1/assets/130914165/fecbbf26-ce9d-4efe-bd9e-320dfb8f6ae0)
+![Screenshot 2024-05-25 180713](https://github.com/PPP2796/PowerBI_Dash1/assets/130914165/1aa862b8-dc68-4104-ae60-18d7eabc90ef)
+
 
 
 
